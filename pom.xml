@@ -35,7 +35,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cucumber.version>1.2.4</cucumber.version>
         <selenium.version>3.9.0</selenium.version>
-        <spring.version>4.3.14.RELEASE</spring.version>
+        <spring.version>5.1.1.RELEASE</spring.version>
         <jackson.version>2.9.7</jackson.version>
     </properties>
 
