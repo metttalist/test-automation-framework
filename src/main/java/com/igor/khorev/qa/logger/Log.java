@@ -70,7 +70,7 @@ public class Log {
      * Logs a message object with ERROR level.
      *
      * @param message - text message to log for error.
-     * @param args    -
+     * @param args    - list of arguments.
      */
     public void error(String message, Object... args) {
         logger.error(message, args);
@@ -99,7 +99,7 @@ public class Log {
      * Logs a message object with INFO level.
      *
      * @param message - text message to log for info.
-     * @param args    -
+     * @param args    - list of arguments.
      */
     public void info(String message, Object... args) {
         logger.info(message, args);
@@ -128,7 +128,7 @@ public class Log {
      * Logs a message object with TRACE level.
      *
      * @param message - text message to log for trace.
-     * @param args    -
+     * @param args    - list of arguments.
      */
     public void trace(String message, Object... args) {
         logger.trace(message, args);
